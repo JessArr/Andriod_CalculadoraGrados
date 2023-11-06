@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CombercionGrados</string>
+    <string name="celsuis">Celsuis</string>
+    <string name="kelvin">Kelvin</string>
+    <string name="farenheit">Farenheit</string>
+    <string name="Titulo">COMBERTIR DE GRADOS</string>
+</resources>
